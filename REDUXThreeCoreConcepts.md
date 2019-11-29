@@ -1,3 +1,5 @@
+
+
 /* CAKE SHOP SCENARIO */
 
 *  A STORE that holds the state of our application *
@@ -19,7 +21,7 @@ in our scenario the action describes that the number of cakes has to be reduced 
 // 3 - Reducer - is what ties the store and the acitons together.
 in our scenario the reducer is the shopkeeper he receives the actions buy from a customer and remeoves the cake from the shelf which is the storeThreeCoreConcepts
 
-- Specify how the application state changes in responses to hte actions send to the stores
+- Specify how the application state changes in responses to The actions send to the stores
 - actions only describes what happend but dont describe how the app state changes
 - Reducer is a function that aaccepts state and action as arguments and returns the newly change state 
 
